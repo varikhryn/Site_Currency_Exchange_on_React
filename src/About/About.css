@@ -1,0 +1,14 @@
+.section-about{
+    width: 100%;
+}
+
+.section-about img{
+    margin: 0 auto;
+}
+.block_img{
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: center;
+}
