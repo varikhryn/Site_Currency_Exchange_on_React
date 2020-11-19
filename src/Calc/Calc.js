@@ -43,7 +43,7 @@ class Calc extends React.Component {
                                     )
                                 )}
                             </select>
-                            <input type="submit" defaultValue="calc" value="Узнать курс" />
+                            <input type="submit" defaultValue="calc" />
                         </form>
                     </div>
                     <div>
